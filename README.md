@@ -14,7 +14,7 @@
   <li>Open Weather API</li>
  <li>Unsplash API</li>
 </ul>
-## Steps to Use:
+<h1> Steps to Use:</h1>
 ---
 
 - Go to the directory
@@ -25,7 +25,3 @@
 
 <h3> ScreenShots </h3>  
 <img src = "Weather-App.jpg" alt="Sample Image">
-<br>
-<video controls autoplay>
-  <source src="sample.mp4" type="video/mp4">
-</video>
