@@ -14,7 +14,7 @@
   <li>Open Weather API</li>
  <li>Unsplash API</li>
 </ul>
-<h1> Steps to Use:</h1>
+<h3> Steps to Use</h3>
 
 - Go to the directory
 - Run the index.html file
